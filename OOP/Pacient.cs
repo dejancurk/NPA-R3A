@@ -8,12 +8,8 @@ namespace OOP
 {
     internal class Pacient
     {
-        string ime;
-        string priimek;
-        int leto_rojstva;
-        double visina;
+        string ime; string priimek; int leto_rojstva; double visina;
         double teza;
-
         public Pacient(string ime, string priimek, int leto_rojstva, double visina, double teza)
         {
             this.leto_rojstva = leto_rojstva;
@@ -22,10 +18,14 @@ namespace OOP
             this.visina = visina;
             this.teza = teza;
         }
-
         public double izracunajITM()
         {
             return teza / Math.Pow(visina,2);
+        }
+
+        public void izpisPacienta()
+        {
+            Console.WriteLine(ime + " " + priimek);
         }
     }
 }

@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 Datoteke - Vaja 1", "10 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Branje datotek", "11 Branje datotek\11 Branje datotek.csproj", "{15BF795E-947F-487E-8334-F96EEB1C10BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{909473FC-97E9-4301-A419-7FCE2AB1C3CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 OOP", "OOP\12 OOP.csproj", "{909473FC-97E9-4301-A419-7FCE2AB1C3CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
