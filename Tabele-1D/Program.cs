@@ -130,7 +130,7 @@ namespace Tabele_1D
 
             }
 
-
+            int[] tabela = r.Next(101){1,1000};
         }
     }
 }
